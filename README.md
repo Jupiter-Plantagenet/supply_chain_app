@@ -52,7 +52,7 @@ This repository contains an end-to-end decentralized application (dApp) for trac
    - Create `frontend/.env`:
      ```env
      VITE_CONTRACT_ADDRESS=<same contract address>
-     VITE_API_URL=http://localhost:5000
+     VITE_API_URL=http://127.0.0.1:5000
      ```
    - Start dev server:
      ```bash
