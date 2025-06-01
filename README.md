@@ -80,6 +80,22 @@ npx hardhat run scripts/deploy.js --network sepolia
 
 ---
 
+## Screenshots
+
+### Home Page
+
+![Home Page](Media/home_page.png)
+
+### Add Product Page
+
+![Add Product Page](Media/add_product.png)
+
+### Video Demo
+
+[Watch the demo video](Media/Vite + React - Google Chrome 2025-06-01 20-27-04.mp4)
+
+---
+
 ## Next Steps
 
 - Verify contract on Etherscan
